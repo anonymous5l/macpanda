@@ -7,6 +7,8 @@ Lattepanda Alpha 864s CPU Model M3-8100y Hackintosh Big Sur bootloader fully fun
 * Airdrop not supported
 * Wireless and bluetooth work 
 * All USBPort fix
+* CPU frequency 1.1Ghz-3.4Ghz
+* SMBIOS infomation use OpenCore Configuare fix model. better select MacBookPro13,1 or you can generate on you own
 
 ### BIOS
 
